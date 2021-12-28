@@ -5,6 +5,7 @@ function App() {
     <>
     <Home />
     <Form />
+    <Home />
     </>
   );
 }
